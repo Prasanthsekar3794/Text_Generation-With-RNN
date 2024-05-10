@@ -20,12 +20,17 @@ python generate.py
 
 **Future Enhancements**
 Incorporate attention mechanisms to improve the model's performance.
+
 Explore transformer architectures for further improvements in text generation quality.
+
 Fine-tune the model on specific domains or datasets for domain-specific text generation tasks.
 
 **References**
 Sequence to Sequence Learning with Neural Networks by Ilya Sutskever, Oriol Vinyals, and Quoc V. Le
+
 Understanding LSTM Networks by Christopher Olah
+
 Generating Sequences With Recurrent Neural Networks by Alex Graves
+
 Neural Machine Translation by Jointly Learning to Align and Translate by Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio
  
